@@ -1,0 +1,33 @@
+.card-apply {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.icon-apply {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.card-box{
+  width: 100%;
+  height: 300px !important;
+}
+
+.movie-des{
+  margin-top: 10rem;
+}
+
+.movie-img{
+  width: 50rem;
+  height: 100%;
+}
+.card-imp{
+  padding-top: 5%;
+}
